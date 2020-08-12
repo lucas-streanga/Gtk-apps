@@ -1,0 +1,10 @@
+1,slow
+2,fast
+3,very slow
+4,slow
+5,very slow
+6,fast
+7,slow
+8,fast
+9,very slow
+10,slow

@@ -1,0 +1,4 @@
+John Doe,D160,3.75,5
+Jane Doe,D450,5.00,3
+Your Mom,D600,3.00,3
+Lucas Streanga,D950,5.00,5
