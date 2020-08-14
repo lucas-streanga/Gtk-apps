@@ -11,6 +11,6 @@ You can install gcc and make with the following command or Debian or Ubuntu syst
 
 sudo apt install build-essentials
 
-You can install gtkmm on Debain or Ubuntu systems with
+You can install gtkmm on Debain or Ubuntu systems with:
 
 apt install libgtkmm-3.0-dev
