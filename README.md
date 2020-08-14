@@ -15,5 +15,5 @@ You can install gtkmm on Debain or Ubuntu systems with:
 
 apt install libgtkmm-3.0-dev
 
-##Build
+## Build
 Simply run "make" in the path where Makefile is found to build the code.
