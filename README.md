@@ -17,3 +17,7 @@ apt install libgtkmm-3.0-dev
 
 ## Build
 Simply run "make" in the path where Makefile is found to build the code.
+
+## Screenshots
+
+![Alt text](Gtk-apps/screenshots/laundry.png?raw=true "Laundromat Program")
