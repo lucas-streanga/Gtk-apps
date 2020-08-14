@@ -108,6 +108,11 @@ public:
         line2->show_all();
         line3->show_all();
     }
+    ~keyboard()
+    {
+      for(int i = 0; i < buttons.size(); i++)
+        delete buttons[i];
+    }
 };
 
 int main(int argc, char **argv)
