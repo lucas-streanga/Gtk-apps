@@ -20,4 +20,4 @@ Simply run "make" in the path where Makefile is found to build the code.
 
 ## Screenshots
 
-![Alt text](https://github.com/lucas-streanga/Gtk-apps/tree/master/screenshots/laundry.png?raw=true "Laundromat Program")
+![Laundry Program](https://github.com/lucas-streanga/Gtk-apps/tree/master/screenshots/laundry.png?raw=true "Laundromat Program")
