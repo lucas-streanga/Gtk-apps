@@ -17,9 +17,14 @@ $(OBJ1) : $(SRC1) $(HFILES)
 cleanup:
 	@echo "Deleting object and executable files..."
 	rm *.o
-	rm $(EXE)
 
 clean:
 	@echo "Clean build..."
+	rm $(EXE)
 	@make cleanup
 	@make
+
+full-rebuild:
+	@echo "Full Rebuild..."
+	@make clean
+	@make cleanup
